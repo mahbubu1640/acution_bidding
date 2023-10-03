@@ -59,6 +59,6 @@ Normal users can view ongoing auctions.
 Admins can view the status of all auctions at any time.
 Auctions are automatically won by the user who places the highest bid when the end time is reached.
 
-This README file provides basic instructions for setting up and running your project, 
+This README file provides basic instructions for setting up and running project, 
 as well as an overview of user and admin functionalities. 
-You can expand it further with more details or custom instructions as needed.
+we can expand it further with more details or custom instructions as needed.
